@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "D:\\Telkom\\New folder (4)\\Semester 7\\juice-shop_17.1.1\\logs/.audit.json",
+    "files": [
+        {
+            "date": 1736357483615,
+            "name": "D:\\Telkom\\New folder (4)\\Semester 7\\juice-shop_17.1.1\\logs\\access.log.2025-01-09",
+            "hash": "d5c10754027c4ecf9215dfddb15082a7"
+        },
+        {
+            "date": 1736456533561,
+            "name": "D:\\Telkom\\New folder (4)\\Semester 7\\juice-shop_17.1.1\\logs\\access.log.2025-01-10",
+            "hash": "478d9944968557bdfa4f263ae142bc16"
+        }
+    ]
+}

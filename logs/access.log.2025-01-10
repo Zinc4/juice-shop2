@@ -1,0 +1,744 @@
+
+      GET /rest/admin/application-configuration 304 27.074 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 7.534 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 304 4.695 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"14-10h2liq3tMxzTFCiH84ZpDMBuNc\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 200 2.780 ms - 20
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 3.065 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 5.902 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 13.822 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 5.083 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 304 3.699 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"14-10h2liq3tMxzTFCiH84ZpDMBuNc\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 200 3.800 ms - 20
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 3.422 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 1.816 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/languages 304 104.112 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"1311-o3+MxH3VqlstZDW3bU2FwkrZkoM\""} 
+      | Body: {}
+
+      GET /rest/products/search?q= 200 142.306 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"38df-xg4UN0yb3N5L+vKxFHV2Z2xZ42w\""} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 200 293.132 ms - 648
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 200 266.605 ms - 648
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"288-CdA7QJ9HWRzALl0WU8vU41lD+6A\""} 
+      | Body: {}
+
+      GET /api/Quantitys/ 200 226.264 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"1872-ifdC/rc/lx6Xx7500Y/OtoHtHlI\""} 
+      | Body: {}
+
+      GET /rest/user/whoami 200 2.818 ms - 11
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/products/24/reviews 200 13.745 ms - 30
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/products/24/reviews 200 15.256 ms - 30
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 2.586 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\"","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/products/search?q= 304 15.169 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"38df-l6FZ/JkkU0vhaNq3JRQ88aCO5iY\""} 
+      | Body: {}
+
+      GET /api/Quantitys/ 304 42.968 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"1872-ZuH5y+UESmX8KS1A8r6nJYMJ3OA\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 23.561 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 7.596 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 304 6.353 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"14-10h2liq3tMxzTFCiH84ZpDMBuNc\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 200 4.988 ms - 20
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 19.894 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/products/search?q= 200 26.670 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /api/Quantitys/ 200 69.091 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 9.516 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 6.670 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 304 2.700 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"14-10h2liq3tMxzTFCiH84ZpDMBuNc\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 200 3.228 ms - 20
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 5.311 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 7.073 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/languages 200 257.276 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"1311-o3+MxH3VqlstZDW3bU2FwkrZkoM\""} 
+      | Body: {}
+
+      GET /rest/products/search?q= 304 286.737 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"38df-X38WcKn8f9jyEYKbQ/FuytONlhQ\""} 
+      | Body: {}
+
+      GET /api/Quantitys/ 304 375.347 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"1872-FnA/4cZ5nECOQKQqNt5/ieaoLZU\""} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 200 454.773 ms - 648
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 200 402.790 ms - 648
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"288-kVU9sWT+j7pkIGLCwT38RIxvGkw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 32.335 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 304 15.209 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"14-10h2liq3tMxzTFCiH84ZpDMBuNc\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 9.224 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 200 7.833 ms - 20
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 8.127 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 6.489 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/languages 304 305.882 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"1311-7Xq0H7j2HTFRIdZOcTGAWMsB5oo\""} 
+      | Body: {}
+
+      GET /rest/products/search?q= 200 205.339 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"38df-X38WcKn8f9jyEYKbQ/FuytONlhQ\""} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 200 521.886 ms - 648
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"288-RmTkjP4pG6+uFwbvRw8w1kD+DKU\""} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 200 458.920 ms - 648
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /api/Quantitys/ 200 367.545 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"1872-FnA/4cZ5nECOQKQqNt5/ieaoLZU\""} 
+      | Body: {}
+
+      GET /rest/products/search?q= 200 20.710 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      GET /api/Quantitys/ 200 64.657 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 3.965 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/user/whoami 200 4.975 ms - 11
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/user/whoami 200 4.941 ms - 11
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      POST /rest/user/login 401 35.936 ms - 26
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","content-type":"application/json","content-length":"34","origin":"http://localhost:3000","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {"email":"test","password":"test"}
+
+      GET /rest/admin/application-configuration 304 33.321 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 304 10.700 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"14-10h2liq3tMxzTFCiH84ZpDMBuNc\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 8.995 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 200 5.747 ms - 20
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 10.285 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 5.733 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 9.285 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/languages 200 207.569 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"1311-7Xq0H7j2HTFRIdZOcTGAWMsB5oo\""} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 200 403.838 ms - 648
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 200 480.762 ms - 648
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"288-X+MVBSqVXGjG8kv6TmN/Nxy5SAQ\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 8.743 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 304 6.236 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"14-10h2liq3tMxzTFCiH84ZpDMBuNc\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 6.655 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 200 6.572 ms - 20
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 5.176 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 6.101 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 8.556 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/languages 304 147.200 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"1311-o3+MxH3VqlstZDW3bU2FwkrZkoM\""} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 200 284.185 ms - 648
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 304 344.462 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"288-rqe6sSZb1rnKJET/J1Nyon0fyvM\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 5.974 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 7.414 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 200 5.869 ms - 20
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-version 304 7.110 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"14-10h2liq3tMxzTFCiH84ZpDMBuNc\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 5.296 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 6.460 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 10.847 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/languages 304 124.503 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"1311-o3+MxH3VqlstZDW3bU2FwkrZkoM\""} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 304 424.696 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"288-rqe6sSZb1rnKJET/J1Nyon0fyvM\""} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 200 340.846 ms - 648
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/user/whoami 200 5.070 ms - 11
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/user/whoami 304 4.082 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"b-/5bSboVjVhGw3qRgvUfZjE1r1Ns\"","priority":"u=0"} 
+      | Body: {}
+
+      POST /rest/user/login 401 47.725 ms - 26
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","content-type":"application/json","content-length":"34","origin":"http://localhost:3000","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {"email":"test","password":"test"}
+
+      GET /rest/user/whoami 200 3.593 ms - 11
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/user/whoami 304 3.086 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"b-/5bSboVjVhGw3qRgvUfZjE1r1Ns\"","priority":"u=0"} 
+      | Body: {}
+
+      POST /rest/user/login 401 46.529 ms - 26
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","content-type":"application/json","content-length":"34","origin":"http://localhost:3000","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {"email":"test","password":"test"}
+
+      GET /rest/user/whoami 304 3.549 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"b-/5bSboVjVhGw3qRgvUfZjE1r1Ns\"","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/user/whoami 200 3.560 ms - 11
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      POST /rest/user/login 401 44.572 ms - 26
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","content-type":"application/json","content-length":"34","origin":"http://localhost:3000","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {"email":"test","password":"test"}
+
+      GET /rest/user/whoami 200 4.614 ms - 11
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/user/whoami 304 4.398 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"b-/5bSboVjVhGw3qRgvUfZjE1r1Ns\"","priority":"u=0"} 
+      | Body: {}
+
+      POST /rest/user/login 401 56.620 ms - 26
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","content-type":"application/json","content-length":"34","origin":"http://localhost:3000","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {"email":"test","password":"test"}
+
+      GET /rest/user/whoami 200 5.096 ms - 11
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/user/whoami 200 3.404 ms - 11
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      POST /rest/user/login 401 57.104 ms - 26
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","content-type":"application/json","content-length":"34","origin":"http://localhost:3000","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {"email":"test","password":"test"}
+
+      GET /rest/products/search?q= 200 22.191 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      GET /api/Quantitys/ 200 63.061 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/user/whoami 304 5.147 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"b-/5bSboVjVhGw3qRgvUfZjE1r1Ns\"","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/products/1/reviews 200 27.788 ms - 172
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"ac-fefsCaJxYfXbmYBk37rQi4uAI3A\"","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/products/1/reviews 200 21.952 ms - 172
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/products/1/reviews 304 16.360 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"ac-6dvI3EgHErPM4LwNwC/nWCufx1I\""} 
+      | Body: {}
+
+      GET /rest/user/whoami 200 6.142 ms - 11
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/products/6/reviews 200 14.374 ms - 170
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/products/6/reviews 200 13.762 ms - 170
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/products/6/reviews 304 17.565 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"aa-sSSOnLKvKlub2N5ISdhggGK/KLs\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 5.687 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 7.329 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 200 4.409 ms - 20
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-version 304 6.148 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"14-10h2liq3tMxzTFCiH84ZpDMBuNc\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 5.184 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 4.925 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/languages 200 140.028 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/products/search?q= 200 169.910 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 200 386.526 ms - 648
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 304 305.278 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"288-rqe6sSZb1rnKJET/J1Nyon0fyvM\""} 
+      | Body: {}
+
+      GET /api/Quantitys/ 200 257.993 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 4.454 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 6.176 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 200 34.323 ms - 20
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-version 304 7.131 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"14-10h2liq3tMxzTFCiH84ZpDMBuNc\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 5.682 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 5.843 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/languages 200 137.198 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/products/search?q= 200 162.979 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 200 322.621 ms - 648
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 200 277.329 ms - 648
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /api/Quantitys/ 200 274.252 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 7.521 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 304 4.751 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"14-10h2liq3tMxzTFCiH84ZpDMBuNc\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 4.898 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 200 5.499 ms - 20
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 10.494 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 4.916 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/languages 304 164.786 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"1311-o3+MxH3VqlstZDW3bU2FwkrZkoM\""} 
+      | Body: {}
+
+      GET /rest/products/search?q= 304 88.687 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"38df-Q+xuZjK/f0oiq+GHvSiQdpIOkm8\""} 
+      | Body: {}
+
+      GET /api/Quantitys/ 304 194.299 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"1872-vY8YQdKN68Jw7LqrSWdjPaQceE4\""} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 304 392.305 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"288-rqe6sSZb1rnKJET/J1Nyon0fyvM\""} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 200 323.984 ms - 648
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 5.407 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 8.348 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 304 7.885 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"14-10h2liq3tMxzTFCiH84ZpDMBuNc\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 200 9.274 ms - 20
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 5.792 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 4.220 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/languages 200 108.834 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"1311-o3+MxH3VqlstZDW3bU2FwkrZkoM\""} 
+      | Body: {}
+
+      GET /rest/products/search?q= 304 167.170 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"38df-Q+xuZjK/f0oiq+GHvSiQdpIOkm8\""} 
+      | Body: {}
+
+      GET /api/Quantitys/ 304 255.416 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"1872-vY8YQdKN68Jw7LqrSWdjPaQceE4\""} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 304 362.236 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"288-rqe6sSZb1rnKJET/J1Nyon0fyvM\""} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 200 305.545 ms - 648
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 5.752 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 7.522 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 200 6.429 ms - 20
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-version 304 6.365 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"14-10h2liq3tMxzTFCiH84ZpDMBuNc\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 3.883 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 4.131 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/languages 200 185.258 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/products/search?q= 200 146.484 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 200 374.598 ms - 648
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 304 316.121 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"288-rqe6sSZb1rnKJET/J1Nyon0fyvM\""} 
+      | Body: {}
+
+      GET /api/Quantitys/ 200 284.254 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 5.332 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 304 5.760 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"541c-cJ6KEVjs/PJ18gJEiDc6F1LeTqw\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 200 7.246 ms - 20
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-version 304 4.018 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"14-10h2liq3tMxzTFCiH84ZpDMBuNc\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 4.758 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 5.979 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/languages 304 126.155 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"1311-7Xq0H7j2HTFRIdZOcTGAWMsB5oo\""} 
+      | Body: {}
+
+      GET /rest/products/search?q= 304 164.474 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"38df-Q+xuZjK/f0oiq+GHvSiQdpIOkm8\""} 
+      | Body: {}
+
+      GET /api/Quantitys/ 304 230.479 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"1872-vY8YQdKN68Jw7LqrSWdjPaQceE4\""} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 200 339.310 ms - 648
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 304 282.201 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"288-rqe6sSZb1rnKJET/J1Nyon0fyvM\""} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 5.905 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/user/whoami 200 5.512 ms - 11
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/user/whoami 200 4.546 ms - 11
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      POST /rest/user/login 401 42.092 ms - 26
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","content-type":"application/json","content-length":"34","origin":"http://localhost:3000","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {"email":"test","password":"test"}
+
+      GET /rest/user/whoami 304 6.298 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"b-/5bSboVjVhGw3qRgvUfZjE1r1Ns\"","priority":"u=0"} 
+      | Body: {}
+
+      GET /rest/user/whoami 200 6.325 ms - 11
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {}
+
+      POST /rest/user/login 401 34.508 ms - 26
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","content-type":"application/json","content-length":"34","origin":"http://localhost:3000","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","priority":"u=0"} 
+      | Body: {"email":"test","password":"test"}
