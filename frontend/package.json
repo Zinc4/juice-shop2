@@ -33,6 +33,6 @@
     "@angular/animations": "^16.0.0",
     "@angular/cdk": "^16.0.0",
     "@angular/compiler-cli": "^16.0.0",
-    "@angular/cli": "^17.3.11"
+    "@angular/cli": "^16.0.0"
   }
 }
