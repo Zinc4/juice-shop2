@@ -1,0 +1,44 @@
+
+      GET /rest/admin/application-configuration 200 46.038 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"5499-IFxEiq5xq62mcKu1yKR59Bg8q14\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 200 15.847 ms - 20
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"14-YSbHrLbmFlmbdfAc6XR2Z+h2po0\""} 
+      | Body: {}
+
+      GET /rest/admin/application-version 200 14.120 ms - 20
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 25.845 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 24.083 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/admin/application-configuration 200 32.814 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /rest/languages 200 696.916 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"1302-uCWLuC84gxwZBx3UXjccj/qFlXQ\""} 
+      | Body: {}
+
+      GET /rest/products/search?q= 200 522.883 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"355b-10jXMWgzg2XxaEe9hQdH/UEDeNk\""} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 200 1129.402 ms - 648
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"288-xQgLnRJy2Bd4TyvvqGD022IELqI\""} 
+      | Body: {}
+
+      GET /api/Challenges/?name=Score%20Board 200 870.735 ms - 648
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"} 
+      | Body: {}
+
+      GET /api/Quantitys/ 200 725.076 ms - -
+      | Headers: {"host":"localhost:3000","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0","accept":"application/json, text/plain, */*","accept-language":"en-US,en;q=0.5","accept-encoding":"gzip, deflate, br, zstd","connection":"keep-alive","referer":"http://localhost:3000/","cookie":"language=en; cookieconsent_status=dismiss; welcomebanner_status=dismiss","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin","if-none-match":"W/\"1872-nD13GwnjT7xJ/GSlg9JwBD0YPs0\""} 
+      | Body: {}

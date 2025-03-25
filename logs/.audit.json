@@ -6,14 +6,9 @@
     "auditLog": "D:\\Telkom\\New folder (4)\\Semester 7\\juice-shop_17.1.1\\logs/.audit.json",
     "files": [
         {
-            "date": 1736357483615,
-            "name": "D:\\Telkom\\New folder (4)\\Semester 7\\juice-shop_17.1.1\\logs\\access.log.2025-01-09",
-            "hash": "d5c10754027c4ecf9215dfddb15082a7"
-        },
-        {
-            "date": 1736456533561,
-            "name": "D:\\Telkom\\New folder (4)\\Semester 7\\juice-shop_17.1.1\\logs\\access.log.2025-01-10",
-            "hash": "478d9944968557bdfa4f263ae142bc16"
+            "date": 1742895914316,
+            "name": "D:\\Telkom\\New folder (4)\\Semester 7\\juice-shop_17.1.1\\logs\\access.log.2025-03-25",
+            "hash": "db14a83de90e0488e6a253aaaee59c1e"
         }
     ]
 }
